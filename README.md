@@ -10,8 +10,8 @@ Skills: C++ / C# / Qt / MySQL / Unreal Engine
 
 Adjacent Interests:
 
-Crypto trading
-Crypto market analysis
+Crypto trading |
+Crypto market analysis |
 Blockchain technology exploration
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Shell-reversecpp)  
