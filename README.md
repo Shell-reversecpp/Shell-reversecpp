@@ -1,4 +1,4 @@
-### Hi there 👋, Dmytro Savchenko
+### Dmytro Savchenko
 #### Passionate Game and Desktop Software Developer | Linux Enthusiast | Building Innovative Projects
 ![Passionate Game and Desktop Software Developer | Linux Enthusiast | Building Innovative Projects](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
