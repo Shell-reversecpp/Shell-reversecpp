@@ -1,6 +1,8 @@
 ### Dmytro Savchenko
 #### Passionate Game 🎮 and Desktop Software Developer 💻 | Linux Enthusiast | Building Innovative Projects
-![Passionate Game and Desktop Software Developer | Linux Enthusiast | Building Innovative Projects](<img src='https://github.com/Shell-reversecpp/Shell-reversecpp/blob/main/SwordfSlash1.png' height='600'>)
+![Passionate Game and Desktop Software Developer | Linux Enthusiast | Building Innovative Projects]
+
+(<img src='https://github.com/Shell-reversecpp/Shell-reversecpp/blob/main/SwordfSlash1.png' height='600'>)
 
 I am a passionate developer specializing in game development and desktop application creation. My primary programming language for application development is C++, and I am also proficient in C#. I have experience working with the Qt framework for building cross-platform applications and have worked with MySQL for database management.
 
