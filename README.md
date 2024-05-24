@@ -1,5 +1,5 @@
 ### Dmytro Savchenko
-#### Passionate Game and Desktop Software Developer | Linux Enthusiast | Building Innovative Projects
+#### Passionate Game 🎮 and Desktop Software Developer 💻 | Linux Enthusiast | Building Innovative Projects
 ![Passionate Game and Desktop Software Developer | Linux Enthusiast | Building Innovative Projects](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I am a passionate developer specializing in game development and desktop application creation. My primary programming language for application development is C++, and I am also proficient in C#. I have experience working with the Qt framework for building cross-platform applications and have worked with MySQL for database management.
@@ -10,7 +10,7 @@ Skills: C++ / C# / Qt / MySQL / Unreal Engine
 
 Adjacent Interests:
 
-Crypto trading |
+Crypto trading | 
 Crypto market analysis |
 Blockchain technology exploration
 
