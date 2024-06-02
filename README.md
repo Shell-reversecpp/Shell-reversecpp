@@ -1,7 +1,7 @@
 ### Dmytro Savchenko
 #### Passionate Game 🎮 and Desktop Software Developer 💻 | Linux Enthusiast 🐧 | Building Innovative Projects ⚛️ 
 
-| <img src='https://github.com/Shell-reversecpp/Shell-reversecpp/blob/main/SwordfSlash1.png' height='300' width='570'> | <img src='https://github.com/Shell-reversecpp/Shell-reversecpp/blob/main/race1.png' height='300' width='570'> |
+| <img src='https://github.com/Shell-reversecpp/Shell-reversecpp/blob/main/SwordfSlash1.png' height='280' width='570'> | <img src='https://github.com/Shell-reversecpp/Shell-reversecpp/blob/main/race1.png' height='280' width='570'> |
 |:---:|:---:|
 | <sub>SwordSlash</sub> | <sub>MatrixRace</sub> |
 | <img src='https://github.com/Shell-reversecpp/Shell-reversecpp/blob/main/app.gif' height='600' width='270'> | <img src='https://github.com/Shell-reversecpp/Shell-reversecpp/blob/main/app2.gif' height='600' width='270'> |
