@@ -5,8 +5,8 @@
 | <img src='https://github.com/Shell-reversecpp/Shell-reversecpp/blob/main/SwordfSlash1.png' height='300' width='570'> | <img src='https://github.com/Shell-reversecpp/Shell-reversecpp/blob/main/race1.png' height='300' width='570'> |
 |:---:|:---:|
 | <sub>SwordSlash</sub> | <sub>MatrixRace</sub> |
-| <img src='https://github.com/Shell-reversecpp/Shell-reversecpp/blob/main/app.gif' height='600' width='570'> | <img src='https://github.com/Shell-reversecpp/Shell-reversecpp/blob/main/app2.gif' height='600' width='570'> |
-| <sub>Gif1Description</sub> | <sub>Gif2Description</sub> |
+| <img src='https://github.com/Shell-reversecpp/Shell-reversecpp/blob/main/app.gif' height='600' width='470'> | <img src='https://github.com/Shell-reversecpp/Shell-reversecpp/blob/main/app2.gif' height='600' width='470'> |
+| <sub>FitApp</sub> | <sub>FitApp</sub> |
 
 I am a passionate developer specializing in game development and desktop application creation. My primary programming language for application development is **C++**, and I am also proficient in **C#**. I have experience working with the **Qt framework** for building cross-platform applications and have worked with **MySQL** for database management.
 
