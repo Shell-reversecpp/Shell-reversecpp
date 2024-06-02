@@ -6,7 +6,7 @@
 |:---:|:---:|
 | <sub>SwordSlash</sub> | <sub>MatrixRace</sub> |
 | <img src='https://github.com/Shell-reversecpp/Shell-reversecpp/blob/main/app.gif' height='600' width='270'> | <img src='https://github.com/Shell-reversecpp/Shell-reversecpp/blob/main/app2.gif' height='600' width='270'> |
-| <sub>FitApp</sub> | <sub>FitApp</sub> |
+| <sub>FitApp(QML)</sub> | <sub>FitApp(QML)</sub> |
 
 I am a passionate developer specializing in game development and desktop application creation. My primary programming language for application development is **C++**, and I am also proficient in **C#**. I have experience working with the **Qt framework** for building cross-platform applications and have worked with **MySQL** for database management.
 
