@@ -1,5 +1,5 @@
 ### Dmytro Savchenko
-#### Passionate Game 🎮 and Experienced Desktop Software Developer 💻 | Linux Enthusiast 🐧 | Building Innovative Projects ⚛️ 
+#### Experienced Desktop Software Developer 💻 | Linux Enthusiast 🐧 | Building Innovative Projects ⚛️ 
 
 | <img src='https://github.com/Shell-reversecpp/Shell-reversecpp/blob/main/SwordfSlash1.png' height='280' width='570'> | <img src='https://github.com/Shell-reversecpp/Shell-reversecpp/blob/main/race1.png' height='280' width='570'> |
 |:---:|:---:|
