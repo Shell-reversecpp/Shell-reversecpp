@@ -2,9 +2,7 @@
 #### Experienced Desktop Software Developer 💻 | Linux Enthusiast 🐧 | Building Innovative Projects ⚛️  
 
 <p align="center">
-  <img src="https://github.com/Shell-reversecpp/Shell-reversecpp/blob/main/login.png" alt="login" height="220">
-  <img src="https://github.com/Shell-reversecpp/Shell-reversecpp/blob/main/pairs.png" alt="pairs" height="220">
-  <img src="https://github.com/Shell-reversecpp/Shell-reversecpp/blob/main/charts.png" alt="charts" height="220">
+  <img src="https://github.com/Shell-reversecpp/Shell-reversecpp/blob/main/clalp.png" alt="login" height="220">
 </p>
 <p align="center">
   <sub>Arbitrage One</sub>
